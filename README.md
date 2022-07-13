@@ -1,14 +1,14 @@
-- Run Buddy, Inc
+  Run Buddy, Inc
 
-Purpose
+  Purpose
 A website that offers fitness training services
 
-Built With
+  Built With
 •HTML
 •CSS
 
-Website
+  Website
 https://gabrielandrews.github.io/run-buddy/
 
-Made By
+  Made By
 Gabriel Andrews
